@@ -1,0 +1,77 @@
+#container{
+    width: 935px;
+    margin: 0 auto;
+}
+
+div{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+div > div{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+#header{
+    width: 890px;
+    height: 100px;
+}
+
+#glulogo{
+    height: 100px;
+}
+
+#sidebar{
+    width: 180px;
+    height: 500px;
+    float: left;
+}
+
+#two{
+    float: left;
+    height: 48px;
+    width: 48px;
+}
+
+#three{
+    float: left;
+    height: 48px;
+    width: 48px;
+}
+
+#four{
+    clear: left;
+    
+}
+
+#content{
+    width: 670px;
+    height: 500px;
+    float: left;
+}
+
+#five{
+    float: left;
+    height: 70px;
+    width: 70px
+}
+
+#six{
+    float: right;
+    height: 70px;
+    width: 70px;
+}
+
+#footer{
+    width: 893px;
+    height: 50px;
+    clear:left;
+}
+
+#seven{
+    float: right;
+    width: 70px;
+}
